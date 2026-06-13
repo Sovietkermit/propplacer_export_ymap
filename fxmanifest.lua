@@ -13,6 +13,3 @@ dependencies {
 server_scripts {
     'server.lua',
 }
-
-# -- extension of
-# -- https://kuzquality.com/package/6697203
